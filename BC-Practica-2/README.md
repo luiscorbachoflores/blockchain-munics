@@ -15,9 +15,11 @@ Con esto se crea un container host para ipfs.
 
 A continuación se modifica el archivo src/contracts/addresses.js con la dirección del contrato previamente desplegado en REMIX. En este caso, con la dirección 0xd194ECa6e95a238F7017787a38b3FC05873D0dF.
 Por último, se crea un frontend en node utilizando los códigos fuente incluidos en el repositorio y se sube un fichero.
-![uploading file](https://github.com/luiscorbachoflores/blockchain-munics/assets/92652221/d58bd126-6fa3-40a6-9573-2c3d50c6bb28)
+![uploading file](https://github.com/luiscorbachoflores/blockchain-munics/assets/92652221/269304ff-2a08-42ea-bf9c-faab85fe15b6)
+
 
 Finalmente podemos ver como el fichero ha sido subido a IPFS
-![file uploaded](https://github.com/luiscorbachoflores/blockchain-munics/assets/92652221/670bc2a5-9db9-4471-931a-f9b986606012)
+![file uploaded](https://github.com/luiscorbachoflores/blockchain-munics/assets/92652221/3456ea24-5764-435a-b8f4-75b692d9335b)
+
 
 Ejercicio 2:
