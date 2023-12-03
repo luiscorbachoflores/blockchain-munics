@@ -21,3 +21,4 @@ Finalmente podemos ver como el fichero ha sido subido a IPFS
 ![file uploaded](https://github.com/luiscorbachoflores/blockchain-munics/assets/92652221/670bc2a5-9db9-4471-931a-f9b986606012)
 
 Ejercicio 2:
+El ejercicio 2 se ha subido a https://github.com/pedrotega/munics/tree/main/BC/Lab2/Ej2
